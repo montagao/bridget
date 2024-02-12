@@ -25,5 +25,3 @@ jsconfig.json
 
 # css map
 *.css.map
-static/bundled
-static/bundled/js/
