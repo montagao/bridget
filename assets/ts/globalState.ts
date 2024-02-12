@@ -21,7 +21,7 @@ const thresholds = [
   { threshold: 40, trailLength: 10 },
   { threshold: 80, trailLength: 5 },
   { threshold: 140, trailLength: 5 },
-  { threshold: 200, trailLength: 30 }
+  { threshold: 300, trailLength: 30 }
 ]
 
 const defaultState = {
